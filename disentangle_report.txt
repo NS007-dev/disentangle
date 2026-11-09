@@ -1,0 +1,72 @@
+          DISENTANGLE REPORT
+
+
+PRESSURE CATEGORY BREAKDOWN
+----------------------------------------
+Academic: 2
+Social: 3
+Family: 1
+Personal: 1
+Other: 1
+
+TOTAL PRESSURES: 8
+AVERAGE ATTENTION: 3.88 / 5
+
+RECORDED PRESSURES
+----------------------------------------
+
+Pressure 1
+Category: Academic
+Description: Upcoming chemistry assessment
+Attention: 4/5
+Influence: INFLUENCE
+Next step: Review chemistry notes for 20 minutes
+
+Pressure 2
+Category: Academic
+Description: Multiple assignment deadlines
+Attention: 5/5
+Influence: INFLUENCE
+Next step: Break assignments into smaller tasks
+
+Pressure 3
+Category: Social
+Description: Friendship disagreement
+Attention: 3/5
+Influence: SUPPORT
+Next step: Consider talking to someone trusted
+
+Pressure 4
+Category: Family
+Description: Household responsibilities
+Attention: 4/5
+Influence: INFLUENCE
+Next step: Organise responsibilities into smaller tasks
+
+Pressure 5
+Category: Personal
+Description: Uncertainty about future plans
+Attention: 2/5
+Influence: OUTSIDE
+Next step: Focus on immediate priorities
+
+Pressure 6
+Category: Social
+Description: Feeling pressure to meet expectations
+Attention: 4/5
+Influence: SUPPORT
+Next step: Identify someone to talk to
+
+Pressure 7
+Category: Other
+Description: Too many extracurricular commitments
+Attention: 5/5
+Influence: INFLUENCE
+Next step: Review current commitments
+
+Pressure 8
+Category: Social
+Description: frienships
+Attention: 4/5
+Influence: SUPPORT
+Next step: help

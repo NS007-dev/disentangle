@@ -1,0 +1,7 @@
+Academic|Upcoming chemistry assessment|4|INFLUENCE|Review chemistry notes for 20 minutes
+Academic|Multiple assignment deadlines|5|INFLUENCE|Break assignments into smaller tasks
+Social|Friendship disagreement|3|SUPPORT|Consider talking to someone trusted
+Family|Household responsibilities|4|INFLUENCE|Organise responsibilities into smaller tasks
+Personal|Uncertainty about future plans|2|OUTSIDE|Focus on immediate priorities
+Social|Feeling pressure to meet expectations|4|SUPPORT|Identify someone to talk to
+Other|Too many extracurricular commitments|5|INFLUENCE|Review current commitments
