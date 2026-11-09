@@ -4,7 +4,7 @@
 
 DISENTANGLE is a small Python app I made to help sort out all the different pressures that pile up in student life. You type in what's on your mind, say how much attention it needs, and figure out what you can actually do about it.
 
-I built it as my first big project for CPS109 at Toronto Metropolitan University, so it's a console program with no fancy interface, and I'm pretty proud of it.
+I built it as my first big project for CPS109 at university, so it's a console program with no fancy interface, and I'm pretty proud of it.
 
 ## Why I Built It
 
@@ -165,4 +165,4 @@ For me, the idea comes down to this: before you can figure out what to do, it he
 
 ---
 
-*Created by Noorin Sakhi as a CPS109 introductory programming project at Toronto Metropolitan University.*
+*Created by Noorin Sakhi as a CPS109 introductory programming project *
