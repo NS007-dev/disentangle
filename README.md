@@ -165,4 +165,4 @@ For me, the idea comes down to this: before you can figure out what to do, it he
 
 ---
 
-*Created by Noorin Sakhi as a CPS109 introductory programming project *
+*Created by Noorin Sakhi as a CPS109 introductory programming project*
